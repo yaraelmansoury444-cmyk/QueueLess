@@ -16,8 +16,6 @@
 | Hazem Ahmed | 16001349 | T4 | hazemfadel12123-droid |
 
 ## 2. The idea
-
-
 QueueLess is an online queue booking system that allows customers to reserve their place in a queue at businesses such as clinics, barber shops, restaurants, and service centers. Customers can book a queue position online, view their queue number, and track their booking status without waiting physically. Business owners can manage their business profiles, organize customer bookings, and update the queue as customers are served. The application aims to reduce waiting time and make queue management easier for both customers and businesses.
 
 ## 3. Features
@@ -51,7 +49,7 @@ QueueLess is an online queue booking system that allows customers to reserve the
 
 | Member | Use case |
 |---|---|
-| Hazem Fadel | 1. Registration and login |
+| Hazem Ahmed | 1. Registration and login |
 | Yara Mohamed | 2. Business Management |
 | Mohamed Waleed | 3. Queue booking |
 | Mohamed Amr | 4. Booking management |
