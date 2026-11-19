@@ -34,6 +34,10 @@ QueueLess is an online queue booking system that allows customers to reserve the
 - Businesses can manage their opening hours and services.
 - Users can view their booking history.
 
+### Customer and business owner roles
+
+Customers use QueueLess to find businesses, book a place in a queue, and follow their queue number and booking status. Business owners create and manage their business profiles, view customer bookings, and update the queue as customers are served.
+
 ### 3.2 The use cases we will build
 
 | # | Use case | What the user does | What they see | What is stored |
